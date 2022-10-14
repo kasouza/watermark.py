@@ -1,0 +1,17 @@
+--- EN
+watermark.py
+
+How to use:
+1. Add a "watermark.png" image to the same folder where the "watermark.py" script is.
+2. Create a "in" folder and put the images you want to add a watermark to there.
+3. Run the "watermark.py" script.
+4. An "out" folder containing your watermarked images will be created.
+
+--- PT/BR
+watermark.py
+
+Como usar:
+1. Colocar uma imagem com o nome "watermark.png" na mesma pasta do script "watermark.py".
+2. Criar uma pasta com o nome "in" e colocar as imagens que você quer adicionar a marca-d'água na pasta "in"
+4. Rodar o script "watermark.py"
+5. As imagens com a marca-d'água podem ser encontradas na pasta "out".
